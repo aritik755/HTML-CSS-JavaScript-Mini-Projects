@@ -1,0 +1,19 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 7px;
+  background-color: bisque;
+}
+
+label{
+  font-size: 22px;
+  font-weight: 800;
+}
+
+input{
+  width: 220px;
+  height: 23px;
+  font-size: 15px;
+}
