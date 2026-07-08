@@ -1,0 +1,24 @@
+body{
+  background-color: beige;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#counter{
+  text-align: center;
+  font-size: larger;
+  color: blue;
+  font-weight: 700;
+}
+
+.Workings{
+  display: flex;
+  justify-content: space-evenly;
+  width: 300px;
+  background-color: aqua;
+  height: 300px;
+  align-items: center;
+}
