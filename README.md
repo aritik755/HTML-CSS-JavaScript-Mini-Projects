@@ -4,9 +4,9 @@ A collection of mini frontend projects built using **HTML**, **CSS**, and **Java
 
 ## 🚀 Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
 ## 📂 Projects
 
@@ -19,16 +19,17 @@ A collection of mini frontend projects built using **HTML**, **CSS**, and **Java
 | Counter App               | Increment, decrement, and reset counter |
 | To-Do List                | Manage daily tasks                      |
 | Password Strength Checker | Check password strength                 |
+| Character Counter         | Counts character at real-time           |
 
 > More projects will be added regularly as I continue learning.
 
 ## 🎯 Objectives
 
-* Improve HTML, CSS, and JavaScript skills
-* Practice DOM manipulation
-* Learn responsive web design
-* Build reusable UI components
-* Strengthen problem-solving abilities
+- Improve HTML, CSS, and JavaScript skills
+- Practice DOM manipulation
+- Learn responsive web design
+- Build reusable UI components
+- Strengthen problem-solving abilities
 
 ## ▶️ How to Run
 
@@ -44,11 +45,11 @@ git clone https://github.com/your-username/HTML-CSS-JavaScript-Projects.git
 
 ## ⭐ Future Plans
 
-* Add more advanced JavaScript projects
-* Build API-based applications
-* Improve UI/UX and responsiveness
-* Add animations and modern effects
-* Deploy projects using GitHub Pages
+- Add more advanced JavaScript projects
+- Build API-based applications
+- Improve UI/UX and responsiveness
+- Add animations and modern effects
+- Deploy projects using GitHub Pages
 
 ## 👨‍💻 Author
 
