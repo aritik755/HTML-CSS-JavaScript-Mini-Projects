@@ -20,6 +20,7 @@ A collection of mini frontend projects built using **HTML**, **CSS**, and **Java
 | To-Do List                | Manage daily tasks                      |
 | Password Strength Checker | Check password strength                 |
 | Character Counter         | Counts character at real-time           |
+| Tip Calculator            | Calculates the tip using percentage     |
 
 > More projects will be added regularly as I continue learning.
 
