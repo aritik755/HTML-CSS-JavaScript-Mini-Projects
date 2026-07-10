@@ -21,6 +21,7 @@ A collection of mini frontend projects built using **HTML**, **CSS**, and **Java
 | Password Strength Checker | Check password strength                 |
 | Character Counter         | Counts character at real-time           |
 | Tip Calculator            | Calculates the tip using percentage     |
+| Weight Coverter           | Convert pounds to kgs     |
 
 > More projects will be added regularly as I continue learning.
 
